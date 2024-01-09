@@ -13,12 +13,6 @@ The MultiPDF Chat App is a Python application that allows you to chat with multi
 </p>
 
 ------------
-## How to use App
-Step1: Upload the pdfs 
-       Upload the pdfs you want to use for question-answering. Click on browse button.
-<p align="center">
-  <img src=./documents/demo.gif>
-</p>
 
 ## Architecture
 ------------
